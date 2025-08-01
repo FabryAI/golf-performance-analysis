@@ -3,3 +3,8 @@ outputs/plots/*
 
 # Ma tieni il segnaposto .gitkeep (se presente)
 !outputs/plots/.gitkeep
+
+# Ignora file .pyc e cache Python
+__pycache__/
+*.pyc
+*.pyo
