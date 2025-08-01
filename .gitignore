@@ -1,0 +1,5 @@
+# Ignora tutti i file dentro outputs/plots/
+outputs/plots/*
+
+# Ma tieni il segnaposto .gitkeep (se presente)
+!outputs/plots/.gitkeep
